@@ -5,3 +5,4 @@ for i in range(a)
 for j in range(i)
 print(j_)
 thankyou
+umm
