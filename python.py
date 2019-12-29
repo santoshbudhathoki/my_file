@@ -1,3 +1,6 @@
-i = [1,2,3,4]
-for i in range(i)
+a = [1,2,3,4]
+for i in range(a)
  print(i)
+ 
+for j in range(i)
+print(j_)
